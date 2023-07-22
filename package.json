@@ -1,7 +1,7 @@
 {
     "name": "bot-wa",
     "version": "0.0.1",
-    "description": "LoL Human case rest api",
+    "description": "Kontol case rest api",
     "main": "index.js",
     "directories": {
         "lib": "lib"
